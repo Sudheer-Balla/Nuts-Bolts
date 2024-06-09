@@ -41,7 +41,7 @@ export default function Products() {
         name: `Product ${index + 1}`,
         description: "This is a placeholder description for the product.",
         price: "$100",
-        details: "Some details",
+        details: "Hi",
         imageUrl: "https://via.placeholder.com/400",
       }));
       setProducts(placeholders);
